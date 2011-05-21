@@ -28,3 +28,6 @@
 [submodule "bundles/snipmate.vim"]
 	path = bundles/snipmate.vim
 	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundles/zencoding-vim"]
+	path = bundles/zencoding-vim
+	url = https://github.com/mattn/zencoding-vim.git
