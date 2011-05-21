@@ -13,3 +13,6 @@
 [submodule "bundles/vim-surround"]
 	path = bundles/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "bundles/closetag.vim"]
+	path = bundles/closetag.vim
+	url = https://github.com/vim-scripts/closetag.vim.git
