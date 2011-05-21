@@ -16,3 +16,9 @@
 [submodule "bundles/closetag.vim"]
 	path = bundles/closetag.vim
 	url = https://github.com/vim-scripts/closetag.vim.git
+[submodule "bundles/inkpot"]
+	path = bundles/inkpot
+	url = https://github.com/ciaranm/inkpot.git
+[submodule "bundles/vim-wombat"]
+	path = bundles/vim-wombat
+	url = https://github.com/cschlueter/vim-wombat.git
