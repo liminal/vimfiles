@@ -31,3 +31,9 @@
 [submodule "bundles/zencoding-vim"]
 	path = bundles/zencoding-vim
 	url = https://github.com/mattn/zencoding-vim.git
+[submodule "bundles/IndentAnything"]
+	path = bundles/IndentAnything
+	url = https://github.com/vim-scripts/IndentAnything.git
+[submodule "bundles/Javascript-Indentation"]
+	path = bundles/Javascript-Indentation
+	url = https://github.com/vim-scripts/Javascript-Indentation.git
