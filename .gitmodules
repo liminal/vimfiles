@@ -43,3 +43,6 @@
 [submodule "bundles/taglist.vim"]
 	path = bundles/taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundles/supertab"]
+	path = bundles/supertab
+	url = https://github.com/ervandew/supertab.git
