@@ -49,3 +49,6 @@
 [submodule "bundles/JSON.vim"]
 	path = bundles/JSON.vim
 	url = https://github.com/dimituri/JSON.vim.git
+[submodule "bundles/vim-unimpaired"]
+	path = bundles/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
