@@ -61,6 +61,10 @@ set pastetoggle=<F2>                     " Press F2 in insert mode to preserve t
 map <F3> :tabp<CR>                       " next tab 
 map <F4> :tabn<CR>                       " previous tab
 
+set list " we do what to show tabs, to ensure we get them 
+         " out of my files
+set listchars=tab:>-,trail:- " show tabs and trailing 
+
 
 colorscheme vividchalk 
 
