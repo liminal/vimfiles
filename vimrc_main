@@ -47,6 +47,8 @@ set number                               "Show line numbers
 set hidden                               "allow hiding buffers with unsaved changes
 set cmdheight=2                          "make the command line a little taller to hide "press enter to viem more" text
 
+set laststatus=2
+
 set backupdir=$HOME/.vim/backup//
 set directory=$HOME/.vim/backup//
 
