@@ -55,3 +55,36 @@
 [submodule "bundles/vim-coffee-script"]
 	path = bundles/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundles/git"]
+	path = bundles/git
+	url = https://github.com/tpope/vim-git.git
+[submodule "bundles/minibufexpl"]
+	path = bundles/minibufexpl
+	url = https://github.com/sontek/minibufexpl.vim.git
+[submodule "bundles/command-t"]
+	path = bundles/command-t
+	url = https://github.com/wincent/Command-T.git
+[submodule "bundles/ack"]
+	path = bundles/ack
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "bundles/gundo"]
+	path = bundles/gundo
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "bundles/pydoc"]
+	path = bundles/pydoc
+	url = https://github.com/fs111/pydoc.vim.git
+[submodule "bundles/pep8"]
+	path = bundles/pep8
+	url = https://github.com/vim-scripts/pep8.git
+[submodule "bundles/py.test"]
+	path = bundles/py.test
+	url = https://github.com/alfredodeza/pytest.vim.git
+[submodule "bundles/makegreen"]
+	path = bundles/makegreen
+	url = https://github.com/reinh/vim-makegreen
+[submodule "bundles/tasklist"]
+	path = bundles/tasklist
+	url = https://github.com/vim-scripts/TaskList.vim.git
+[submodule "bundles/ropevim"]
+	path = bundles/ropevim
+	url = https://github.com/sontek/rope-vim.git
